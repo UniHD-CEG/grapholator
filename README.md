@@ -24,7 +24,7 @@ If you find this work useful for your research, please cite (for which the libra
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
-or for memory access patterns:
+or for reproducibility and memory access patterns:
 ```
 @inproceedings{DBLP:conf/btw/Dann0F21,
   author    = {Jonas Dann and
