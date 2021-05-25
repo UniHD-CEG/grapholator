@@ -1,6 +1,6 @@
 # grapholator
-Simulator for memory access patterns of FPGA-based graph processing accelerators
 
+Simulator for memory access patterns of FPGA-based graph processing accelerators.
 
 **Citation**
 
