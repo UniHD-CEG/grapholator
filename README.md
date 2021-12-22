@@ -2,7 +2,7 @@
 
 Simulator for memory access patterns of FPGA-based graph processing accelerators.
 
-**Citation**
+**Citation:**
 
 If you find this work useful for your research, please cite (for which the library was developed):
 
